@@ -1,4 +1,4 @@
-# hotel-app
+# Propertymart
 
 
 How to install django backend
